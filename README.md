@@ -21,7 +21,9 @@ link to medium article : https://medium.com/@chirudeep.gorle/best-practices-for-
 
 Link to chat: https://chat.openai.com/share/241709e2-6ee3-4be1-b608-d722a754491d
 
- 
+ colab link: https://colab.research.google.com/drive/1t6emXOr0eUsulwepic551LmW9pAJgQzT?usp=sharing
+
+
 
 b) Write an gradio or streamlit application for perfect prompt generation with proper ux  (following all best practices) using gpt4 assisted help
 
