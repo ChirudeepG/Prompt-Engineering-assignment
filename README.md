@@ -43,7 +43,7 @@ Then you will have refinement and iteration.
 
 Use gpt4 to help you do coding for the app - or gpt-engineer or metagpt https://github.com/geekan/MetaGPTLinks to an external site. or devgpt - https://github.com/jina-ai/dev-gptLinks to an external site. - or you can also use https://vercel.com/Links to an external site. for build entire full stack app. sample app for inspiration - https://jina.ai/news/promptperfect-prompt-engineering-done-right/Links to an external site.
 
- 
+ colab link: https://colab.research.google.com/drive/1ENO2nONvggQYXPZl8WkErblu9zILcuas?usp=sharing
 
 Prepare a medium.com article
 
@@ -51,6 +51,7 @@ checkin all the artifacts and demos with a 10 min slideshow presentation of the 
 
 Eg prompt that you can use as starter in your web application:
 
+link to artcile: https://medium.com/@chirudeep.gorle/check-in-all-the-artifacts-using-chatgpt-efba202eac89
  
 
 https://docs.google.com/document/d/1kVH-XDR06_TKQfzV6bEH1XzSMGdkv5LUwWLUc3urBDI/edit?usp=sharingLinks to an external site.
