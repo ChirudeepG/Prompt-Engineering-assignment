@@ -17,6 +17,10 @@ https://chat.openai.com/share/43c5dc55-2273-44c1-9d20-b2b90a264a68Links to an ex
 
 https://chat.openai.com/share/917d0281-f34b-4eda-834d-322a19d525a0Links to an external site.
 
+link to medium article : https://medium.com/@chirudeep.gorle/best-practices-for-writing-prompts-crafting-queries-that-deliver-8f1d07ca19f4
+
+Link to chat: https://chat.openai.com/share/241709e2-6ee3-4be1-b608-d722a754491d
+
  
 
 b) Write an gradio or streamlit application for perfect prompt generation with proper ux  (following all best practices) using gpt4 assisted help
